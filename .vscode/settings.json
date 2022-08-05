@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\blp\\BloombergWindowsSDK7Aug2020\\JavaAPI\\v3.15.0.1\\lib\\blpapi3.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ]
+}
